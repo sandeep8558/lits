@@ -1,0 +1,41 @@
+Hero Section
+- Images
+- Highlights
+
+About Section
+- Experience
+- Experties
+- Team
+
+Services 
+- Web: Websites, Web Applications, SEO, UX/UI, Graphic, Hosting Services, Payment Gateway, 
+- Automation: iOT, Embedded Systems
+- Mobile Applications: Android, iOS, Hybrid
+- Customised Ecosystems
+
+Projects/Solutions
+- Ecommerce
+- School ERP
+- Matrimonial Platform
+- Booking
+- Subscription
+
+Technologies we work on
+- HTML
+- CSS - (Bootstrap, Tailwind, Custom)
+- PHP (Laravel, Code igniter, Custom framework)
+- Javascript (Angular, Vuejs, React, Express, Vanila)
+- Hybrid Technologies (Ionic, Capacitor, Cordova, Phonegap, Flutter)
+
+Portfolio
+- Website Links
+- Screenshots
+
+Why us?
+- How we handle complex work 
+
+Contact Section
+- Contact Form
+- Social Media
+
+Career
